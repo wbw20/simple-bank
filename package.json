@@ -1,0 +1,28 @@
+{
+  "name": "simple-bank",
+  "version": "0.0.0",
+  "description": "An API client for Simple Bank (https://www.simple.com/) ❤️",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbw20/simple-bank.git"
+  },
+  "keywords": [
+    "Simple",
+    "Bank",
+    "API",
+    "client"
+  ],
+  "author": "wbw20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbw20/simple-bank/issues"
+  },
+  "homepage": "https://github.com/wbw20/simple-bank#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
